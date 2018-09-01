@@ -8,7 +8,7 @@ def OpenPro1():
 
     print("Hej")
 
-    execfile('n.py') #write any file with .py extension.This method is similar to rightclick and open
+    execfile('runthis.py') #write any file with .py extension.This method is similar to rightclick and open
 
 button_1 = Button(root, text = "Hejdå", command = OpenPro1)
 
